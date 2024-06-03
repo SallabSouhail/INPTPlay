@@ -41,9 +41,11 @@ Les utilisateurs peuvent créer un compte et se connecter pour accéder aux fonc
 
 ![Page d'Inscription](INPTPLAY_screen/1_s'inscrire.png)
 
+
 **Capture d'écran : Utilisateur Inscrit avec succès**
 
 ![Page d'Inscription](INPTPLAY_screen/2_s'inscrire.png)
+
 
 **Capture d'écran : Page de Connexion**
 
@@ -57,9 +59,11 @@ Les utilisateurs peuvent réserver des terrains de football, basketball et volle
 
 ![Page de Réservation](INPTPLAY_screen/4_choisir_terrain.png)
 
+
 **Capture d'écran : Page de Réservation**
 
 ![Page de Réservation](INPTPLAY_screen/5_choisir_Heure.png)
+
 
 **Capture d'écran : Réservation Validée**
 
@@ -72,6 +76,7 @@ Les utilisateurs peuvent consulter leurs réservations actuelles et annuler cell
 **Capture d'écran : Page de Gestion des Réservations**
 
 ![Page de Gestion des Réservations](INPTPLAY_screen/7_consulter_Reservations.png)
+
 
 **Capture d'écran : Annuler une Réservations**
 
@@ -114,5 +119,15 @@ Les administrateurs peuvent visualiser toutes les réservations effectuées sur 
 **Capture d'écran : Voir des Réservations par Sport**
 
 ![Gestion des Réservations](INPTPLAY_screen/Admin/2_reservation_terrain_basket.png)
+
+
+# Contributeurs
+
+Merci aux personnes suivantes qui ont contribué à ce projet :
+
+- **ANTOINE Martiale** -[GitHub]([https://github.com/votre-utilisateu](https://github.com/SallabSouhail)
+- **Elamim Yahya** - [GitHub du Contributeur](https://github.com/contributeur-utilisateur)
+- **NOAM Haythem** - [GitHub du Contributeur](https://github.com/contributeur-utilisateur)
+- **SALLAB Souhail** - [GitHub du Contributeur](https://github.com/contributeur-utilisateur)
 
 
