@@ -26,6 +26,7 @@ INPTPlay est une application web qui permet aux étudiants de l'INPT de réserve
 La page d'accueil présente une vue d'ensemble de l'application et de ses fonctionnalités. Les utilisateurs peuvent accéder à différentes sections depuis le menu de navigation.
 
 **Capture d'écran : Page d'Accueil**
+
 ![Page d'Accueil](INPTPLAY_screen/0_Acceuil.png)
 
 ## 2. Inscription et Connexion
