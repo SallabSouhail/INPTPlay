@@ -125,7 +125,7 @@ Les administrateurs peuvent visualiser toutes les réservations effectuées sur 
 
 Merci aux personnes suivantes qui ont contribué à ce projet :
 
-- [**ANTOINE Martiale**]([https://github.com/votre-utilisateu]
+- [**ANTOINE Martiale**]([https://github.com/votre-utilisateu)
 - [**Elamim Yahya**](https://github.com/contributeur-utilisateur)
 - [**NOAM Haythem**](https://github.com/contributeur-utilisateur)
 - [**SALLAB Souhail**](https://github.com/SallabSouhail)
