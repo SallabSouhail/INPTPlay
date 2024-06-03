@@ -128,6 +128,6 @@ Merci aux personnes suivantes qui ont contribué à ce projet :
 - **ANTOINE Martiale** -[GitHub]([https://github.com/votre-utilisateu]
 - **Elamim Yahya** - [GitHub du Contributeur](https://github.com/contributeur-utilisateur)
 - **NOAM Haythem** - [GitHub du Contributeur](https://github.com/contributeur-utilisateur)
-- **SALLAB Souhail** - [git](https://github.com/SallabSouhail))
+- [**SALLAB Souhail**](https://github.com/SallabSouhail)
 
 
