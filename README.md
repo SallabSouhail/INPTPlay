@@ -100,7 +100,7 @@ Le tableau de bord offre une vue d'ensemble rapide des principales statistiques 
 
 ![Tableau de Bord](INPTPLAY_screen/Admin/0_stat.png)
 
-## 3. Visualisation des Réservations
+## 2. Visualisation des Réservations
 
 Les administrateurs peuvent visualiser toutes les réservations effectuées sur la plateforme.
 
@@ -109,6 +109,7 @@ Les administrateurs peuvent visualiser toutes les réservations effectuées sur 
 **Capture d'écran : Voir des Réservations**
 
 ![Gestion des Réservations](INPTPLAY_screen/Admin/1_all_booking.png)
+
 
 **Capture d'écran : Voir des Réservations par Sport**
 
