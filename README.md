@@ -9,6 +9,7 @@ INPTPlay est une application web permettant aux étudiants de l'INPT de réserve
 - Gestion des créneaux horaires disponibles et réservés
 - Annulation des réservations
 - Section de suggestions pour améliorer les services
+- Un Admin Panel de INPTPlay qui permet aux administrateurs de surveiller les activités de réservation des terrains de sport.
 
 ## Technologies Utilisées
 
@@ -37,47 +38,80 @@ Les utilisateurs peuvent créer un compte et se connecter pour accéder aux fonc
 - **Connexion** : Les utilisateurs existants peuvent se connecter en utilisant leur nom d'utilisateur et mot de passe.
 
 **Capture d'écran : Page d'Inscription**
-![Page d'Inscription](path/to/inscription.png)
+
+![Page d'Inscription](INPTPLAY_screen/1_s'inscrire.png)
+
+**Capture d'écran : Utilisateur Inscrit avec succès**
+
+![Page d'Inscription](INPTPLAY_screen/2_s'inscrire.png)
 
 **Capture d'écran : Page de Connexion**
-![Page de Connexion](path/to/connexion.png)
+
+![Page de Connexion](INPTPLAY_screen/3_se_connecter.png)
 
 ## 3. Réservation de Terrains
 
 Les utilisateurs peuvent réserver des terrains de football, basketball et volleyball en sélectionnant la date, l'heure et le type de sport. Les créneaux disponibles et réservés sont clairement affichés.
 
+**Capture d'écran : Section du choix de Terrain**
+
+![Page de Réservation](INPTPLAY_screen/4_choisir_terrain.png)
+
 **Capture d'écran : Page de Réservation**
-![Page de Réservation](path/to/reservation.png)
+
+![Page de Réservation](INPTPLAY_screen/5_choisir_Heure.png)
+
+**Capture d'écran : Réservation Validée**
+
+![Page de Réservation](INPTPLAY_screen/6_reservation_succes.png)
 
 ## 4. Gestion des Réservations
 
 Les utilisateurs peuvent consulter leurs réservations actuelles et annuler celles qu'ils ne peuvent plus honorer.
 
 **Capture d'écran : Page de Gestion des Réservations**
-![Page de Gestion des Réservations](path/to/gestion_reservations.png)
+
+![Page de Gestion des Réservations](INPTPLAY_screen/7_consulter_Reservations.png)
+
+**Capture d'écran : Annuler une Réservations**
+
+![Page de Gestion des Réservations](INPTPLAY_screen/8_Annuler_reservation.png)
 
 ## 5. Section de Suggestions
 
 Une section est dédiée aux suggestions des utilisateurs pour améliorer les services offerts. Les utilisateurs peuvent soumettre leurs idées et commentaires.
 
-**Capture d'écran : Page de Suggestions**
-![Page de Suggestions](path/to/suggestions.png)
+**Capture d'écran : Section de Suggestions**
+![Page de Suggestions](INPTPLAY_screen/01_Forme_suggestion.png)
 
-## 6. Contact
 
-Une page de contact est disponible pour que les utilisateurs puissent obtenir de l'aide ou poser des questions. Les informations de contact et un formulaire sont fournis.
+# Fonctionnalités du Admin Panel - INPTPlay
 
-**Capture d'écran : Page de Contact**
-![Page de Contact](path/to/contact.png)
+L'Admin Panel de INPTPlay permet aux administrateurs de gérer et de surveiller les activités de réservation des terrains de sport. Voici une description des principales fonctionnalités de l'admin panel :
 
-## 7. Footer
+## 1. Tableau de Bord
 
-Le footer de l'application contient des liens utiles, des informations de contact et des liens vers les réseaux sociaux.
+Le tableau de bord offre une vue d'ensemble rapide des principales statistiques de l'application. 
 
-**Capture d'écran : Footer**
-![Footer](path/to/footer.png)
+- **Nombre d'élèves inscrits** : Affiche le nombre total d'élèves inscrits sur la plateforme.
+- **Nombre de réservations de terrains de sport** : Affiche le nombre total de réservations pour les terrains de football, basketball et volleyball.
 
----
+**Capture d'écran : Tableau de Bord**
 
-**Remarque** : Remplacez `path/to/...` par le chemin d'accès réel aux captures d'écran que vous souhaitez afficher dans chaque section. Vous pouvez télécharger vos images dans le dépôt GitHub et utiliser le chemin relatif ou un lien direct vers l'image hébergée.
+![Tableau de Bord](INPTPLAY_screen/Admin/0_stat.png)
+
+## 3. Visualisation des Réservations
+
+Les administrateurs peuvent visualiser toutes les réservations effectuées sur la plateforme.
+
+- **Voir les réservations** : Affiche une liste détaillée de toutes les réservations.
+
+**Capture d'écran : Voir des Réservations**
+
+![Gestion des Réservations](INPTPLAY_screen/Admin/1_all_booking.png)
+
+**Capture d'écran : Voir des Réservations par Sport**
+
+![Gestion des Réservations](INPTPLAY_screen/Admin/2_reservation_terrain_basket.png)
+
 
